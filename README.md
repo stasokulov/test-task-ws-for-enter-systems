@@ -4,7 +4,11 @@
 
 Технологии: Vue 3, Pinia, TypeScript, Websocket.
 
-Ссылка на сайт: https://stasokulov.github.io/test-task-ws-for-enter-systems/
+~~Ссылка на сайт: https://stasokulov.github.io/test-task-ws-for-enter-systems/~~
+
+Сайт не работает, т.к. заказчиком предоставлено api без шифрования (ws://), а сервис Github Pages выдает адреса с шифрованием (https://). Нужен хостинг с http://, или api с wss://.
+
+На локальной машине проект поднимается и работает.
 
 ## Recommended IDE Setup
 
