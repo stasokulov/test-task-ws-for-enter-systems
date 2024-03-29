@@ -4,7 +4,7 @@
 
 Технологии: Vue 3, Pinia, TypeScript, Websocket.
 
-Ссылка на сайт:
+Ссылка на сайт: https://stasokulov.github.io/test-task-ws-for-enter-systems/
 
 ## Recommended IDE Setup
 
